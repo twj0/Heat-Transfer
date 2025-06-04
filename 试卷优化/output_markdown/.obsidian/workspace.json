@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "124c23461cc73296",
+    "id": "3a692092a72c1f96",
     "type": "split",
     "children": [
       {
-        "id": "dff34b17bdba5f02",
+        "id": "aaa59d48d1f97fcb",
         "type": "tabs",
         "children": [
           {
-            "id": "a6ff8edbd1340db6",
+            "id": "cacd0e4736ce8706",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "17a20df4fac9e2f2",
+    "id": "58a01344c46c4589",
     "type": "split",
     "children": [
       {
-        "id": "f57acf2ddf4cfaf0",
+        "id": "bb75746473119f94",
         "type": "tabs",
         "children": [
           {
-            "id": "7767cf3af6b34c3a",
+            "id": "ad547e1c31e8e11c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "b4103cc42eeba188",
+            "id": "c0d2f10db969952c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "170859879a5cbd63",
+            "id": "aab0f28f4c0224f4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "3cc78d034b135600",
+    "id": "c93eb923b78b1067",
     "type": "split",
     "children": [
       {
-        "id": "c4cbdf00a32ca25b",
+        "id": "aeb8f6535ca33375",
         "type": "tabs",
         "children": [
           {
-            "id": "1f2484b9a814c3d0",
+            "id": "cabc8b811dae83a4",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "79954c16e6058c78",
+            "id": "3ecc28858adebefc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +116,7 @@
             }
           },
           {
-            "id": "37d7d0b582483738",
+            "id": "fac532f24213a8e2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +131,7 @@
             }
           },
           {
-            "id": "f394cfe854eaeddd",
+            "id": "a6e025ddde75b5ad",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -161,8 +161,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a6ff8edbd1340db6",
+  "active": "cacd0e4736ce8706",
   "lastOpenFiles": [
-    "欢迎.md"
+    "传热学试卷09热能-B（试题）(1).md",
+    "传热学试卷09热能-A（试题）(1).md",
+    "传热学试卷（A07，B）.doc(1).md",
+    "传热学试卷.md"
   ]
 }
